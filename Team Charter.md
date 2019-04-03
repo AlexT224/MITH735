@@ -1,4 +1,5 @@
 <link rel="stylesheet" type="text/css" media="all" href="style.css"/>
+
 ## Small Group Charter: Brienne, Alex, and Jonelle
 
 **Member Roles:**
