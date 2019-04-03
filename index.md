@@ -2,4 +2,4 @@
 
 [Proposal](Proposal.md)
 
-[Team Charter](TeamCharter.md)
+[Team Charter](Team Charter.md)
