@@ -1,4 +1,4 @@
-## Collaborators’ Bill of Rights
+## [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/)
  **1)** All kinds of work on a project are equally deserving of credit (though the amount of work and expression of credit may differ). And *all* collaborators should be empowered to take credit for their work.
 
  **2)** The DH community should default to the most comprehensive model of attribution of credit: credit should take the form of a legible trail that articulates the nature, extent, and dates of the contribution. (Models in the sciences and the arts may be useful.)
